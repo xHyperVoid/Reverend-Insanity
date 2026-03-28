@@ -1,6 +1,6 @@
 # Reverend Insanity (Gu Zhen Ren)
 
-This repository serves as a private library of the *Reverend Insanity* webnovel chapters. The content is stored in HTML format to facilitate rapid retrieval and high-accuracy search for AI-driven lore analysis and reading.
+This repository serves as a private library of the *Reverend Insanity* webnovel chapters. The content is stored in XHTML format to facilitate rapid retrieval and high-accuracy search for AI-driven lore analysis and reading.
 
 ## Archive Overview
 
