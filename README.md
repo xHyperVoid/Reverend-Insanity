@@ -1,19 +1,45 @@
-# Reverend Insanity (Gu Zhen Ren)
+# Reverend Insanity by Gu Zhen Ren 蛊真人
 
-This repository serves as a private library of the *Reverend Insanity* webnovel chapters. The content is stored in XHTML format to facilitate rapid retrieval and high-accuracy search for AI-driven lore analysis and reading.
+<div align="center">
+  <img src="cover.jpeg" alt="Reverend Insanity Cover" width="350"/>
+</div>
+
+<br/>
+
+> *Humans are the spirit of all living beings, Gu are the true essence of Heaven and Earth.*
+> *With his Three Fundamental Views* unrighteous, the demon is reborn.*
+> *Former days are but an old dream, an identical name is made anew.*
+> *A story of a time traveler who keeps on being reborn.*
+> *A bizarre world that raises, refines, and uses Gu.*
+> *The Spring Autumn Cicada, the Moonlight Gu, the Liquor Worm, Comprehensive Golden Light Worm, Slender Black Hair Gu, Gu of Hope...*
+> *And a peerless great demon that acts freely to his heart's content!*
+
+### Synopsis
+A story of a villain, Fang Yuan, who was reborn 500 years into the past with the Spring Autumn Cicada he painstakingly refined. With his profound wisdom, battle and life experiences, he seeks to overcome his foes with skill and wit! Ruthless and amoral, he has no need to hold back as he pursues his ultimate goals. In a world of cruelty where one cultivates using Gu—magical creatures of the world—Fang Yuan must rise up above all with his own power.
+
+---
+**Footnotes & Credits:**
+* **Three Fundamental Views (三观):** One's world view, values of worth, and philosophy on life.
+* **Gu (蛊):** A legendary venomous insect, often used in black magic practices. It can take on the form of several insects, usually snakes, crickets, worms, etc.
+* **Source:** Qidian
+* **Cover Artwork:** OSOT 酒保
+
+---
 
 ## Archive Overview
+
+This repository serves as a private library of the *Reverend Insanity* webnovel chapters. The content is stored in XHTML format to facilitate rapid retrieval and high-accuracy search for AI-driven lore analysis and reading.
 
 The novel is organized by volumes, following the official structural progression of Fang Yuan's journey:
 
 | Volume | Title | Chapters |
 | :--- | :--- | :--- |
-| **1** | A Demon's Nature Doesn't Change | 1 – 199 |
+| **1** | A Demon's Nature Doesn't Change | 0 – 199 |
 | **2** | The Demon Leaves the Mountain | 200 – 405 |
 | **3** | The Demon Wreaks Chaos in the World | 406 – 649 |
 | **4** | The Demon Lord Rampages Unhindered | 650 – 1021 |
 | **5** | Demon King's Domination | 1022 – 1966 |
-| **6** | Demon Venerable’s Eternal Life | 1967 – Ongoing |
+| **6** | Demon Venerable’s Eternal Life | 1967 – 2334 |
 
 ## External References & Wiki
 For detailed information regarding Gu worms, cultivation ranks, and character histories, refer to the official community-maintained wiki:
