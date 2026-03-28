@@ -6,22 +6,34 @@
 
 <br/>
 
-> *Humans are the spirit of all living beings, Gu are the true essence of Heaven and Earth.*
-> *With his Three Fundamental Views* unrighteous, the demon is reborn.*
-> *Former days are but an old dream, an identical name is made anew.*
-> *A story of a time traveler who keeps on being reborn.*
-> *A bizarre world that raises, refines, and uses Gu.*
-> *The Spring Autumn Cicada, the Moonlight Gu, the Liquor Worm, Comprehensive Golden Light Worm, Slender Black Hair Gu, Gu of Hope...*
-> *And a peerless great demon that acts freely to his heart's content!*
+> *Humans are the spirit of all living beings; Gu are the true essence of Heaven and Earth.*
+> 
+> *With **Three Fundamental Views*** turned deviant, the demon is reborn.*
+> 
+> *A dream of former days returns to life; an identical name is made anew.*
+> 
+> *The tale of a traveler who defies the cycle of fate.*
+> 
+> *A world where one raises, refines, and wields the primordial power of Gu.*
+> 
+> *The Spring Autumn Cicada, the Moonlight Gu, the Liquor Worm, the One-Stretch Golden Light Worm, the Gu of Hope...*
+> 
+> *Behold a peerless demon, walking the world as his heart desires.*
 
 ### Synopsis
-A story of a villain, Fang Yuan, who was reborn 500 years into the past with the Spring Autumn Cicada he painstakingly refined. With his profound wisdom, battle and life experiences, he seeks to overcome his foes with skill and wit! Ruthless and amoral, he has no need to hold back as he pursues his ultimate goals. In a world of cruelty where one cultivates using Gu—magical creatures of the world—Fang Yuan must rise up above all with his own power.
+
+Five centuries of wandering have distilled a singular clarity within Fang Yuan: in a world where the heavens treat all things as indifferent, morality is but a comforting shadow.
+
+To the righteous, he is a plague; to the wicked, a nightmare. Yet when the world finally conspires to end him, he does not seek redemption. He gambles his existence on the Spring Autumn Cicada—a legendary Gu refined through five hundred years of sacrifice—and shatters the cycle of time.
+
+Awakening in the body of his youth, armed with forbidden wisdom and a heart forged in the crucible of time, Fang Yuan begins his journey anew. He does not return to right his wrongs or seek vengeance against fate. Instead, he navigates a world of ruthless survival and celestial schemes to reach a destination only he can see, walking a path where the only law is his own will.
 
 ---
+
 **Footnotes & Credits:**
-* **Three Fundamental Views (三观):** One's world view, values of worth, and philosophy on life.
-* **Gu (蛊):** A legendary venomous insect, often used in black magic practices. It can take on the form of several insects, usually snakes, crickets, worms, etc.
-* **Source:** Qidian
+* ***Three Fundamental Views (三观):** A Chinese philosophical concept referring to one's world view, values of worth, and philosophy on life. To have "unrighteous" views is to exist entirely outside conventional societal morality.
+* **Gu (蛊):** Legendary, mystical creatures of the world. They are the true essence of power, appearing in countless forms—insects, worms, or even abstract energies—and are refined by cultivators to perform miraculous or terrifying feats.
+* **Source:** Qidian Webnovel
 * **Cover Artwork:** OSOT 酒保
 
 ---
