@@ -46,3 +46,47 @@ For detailed information regarding Gu worms, cultivation ranks, and character hi
 
 * **[Reverend Insanity Fandom Wiki](https://reverend-insanity.fandom.com/wiki/Reverend_Insanity_Wiki)**
     * [Characters](https://reverend-insanity.fandom.com/wiki/Category:Character)
+
+---
+
+## How to Build the EPUB
+
+<details>
+  <summary>Do not manually zip the folder and rename it to `.epub`; this breaks required file compression rules and will corrupt the book. Use the included build script instead.
+</summary>
+  <br>
+  Or Just download "file" and rename it to a .epub
+</details>
+
+**Prerequisite:** [Python 3](https://www.python.org/downloads/)
+
+1. **Download:** Clone this repository or download and fully extract the ZIP.
+2. **Navigate:** Open your terminal or command prompt and `cd` into the extracted folder.
+   * **Windows:**
+     ```bash
+     cd C:\Users\Username\Downloads\Reverend-Insanity-main
+     ```
+   * **macOS / Linux:**
+     ```bash
+     cd ~/Downloads/Reverend-Insanity-main
+     ```
+3. **Run:** Execute the build script to generate the book.
+   * **Windows:**
+     ```bash
+     python make_epub.py
+     ```
+   * **macOS / Linux:**
+     ```bash
+     python3 make_epub.py
+     ```
+---
+
+## Legal Disclaimer
+This repository is for personal archival and educational use only. I do not own any assets, characters, or story content associated with *Reverend Insanity*; all rights belong to the author, **Gu Zhen Ren (蛊真人)**, and the original publishers (**Qidian**).
+
+## Support the Author
+If you enjoyed this work, please consider supporting the creator through these official channels to ensure the benefits reach him directly:
+
+* **Qidian:** Purchase VIP chapters or provide "Monthly Tickets" for his current active projects.
+* **Official Social Media:** Follow and interact with Gu Zhen Ren on **Douyin** (Chinese TikTok) to donate or engage directly.
+* **Official eBook Releases:** Purchase licensed versions (e.g., via **Amazon**) as these have different royalty structures than web platforms.
