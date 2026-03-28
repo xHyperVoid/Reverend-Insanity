@@ -55,7 +55,7 @@ For detailed information regarding Gu worms, cultivation ranks, and character hi
   <summary>Do not manually zip the folder and rename it to `.epub`; this breaks required file compression rules and will corrupt the book. Use the included build script instead.
 </summary>
   <br>
-  Or just download "file" and rename it to a .epub
+  Or just download "notes" and rename it to a .epub
 </details>
 
 **Prerequisite:** [Python 3](https://www.python.org/downloads/)
